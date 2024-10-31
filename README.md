@@ -5,8 +5,8 @@ See tutorial here - https://www.softwareyoga.com/docker-tomact-tutorial/
 
 # Steps
 * Install [Docker](https://docs.docker.com/install/).
-* Clone this repository - $git clone https://github.com/softwareyoga/docker-tomcat-tutorial.git
-* cd 'docker-tomcat-tutorial'
+* Clone this repository - $git clone https://github.com/Shashi1408/docker-tc.git
+* cd 'docker-tc'
 * $docker build -t mywebapp .
 * $docker run -p 80:8080 mywebapp
 * http://localhost:80
